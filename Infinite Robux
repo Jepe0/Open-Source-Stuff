@@ -1,0 +1,12 @@
+local Robux
+local function GiveRobux(Amount)
+local Robux = Amount
+end
+local a = true
+local b = a
+local c = b
+local d = c
+local e = d
+local f = e
+local g = f
+while g do GiveRobux(math.huge) end
